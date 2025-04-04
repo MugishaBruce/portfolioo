@@ -69,3 +69,12 @@ document.addEventListener("DOMContentLoaded", function () {
         animateBar();
     });
 });
+
+new Typed('#typed', {
+    strings: ['Web Developer', 'UI/UX Designer', 'Tech Enthusiast', Java Developer],
+    typeSpeed: 50,
+    backSpeed: 50,
+    backDelay: 1000,
+    loop: true
+})
+
